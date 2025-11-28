@@ -1,239 +1,332 @@
-1. abate — lessen; reduce intensity
+1. abate (verb)
 
-The storm finally abated, allowing the rescue team to proceed.
+abate — decrease in intensity; lessen
+abate — decrease in intensity; lessen
 
-1. abate — lessen; reduce intensity
+The storm finally began to abate after several hours.
 
-The storm finally abated, allowing the rescue team to proceed.
+Her anger abated once he apologized sincerely.
 
-2. abjure — reject strongly; renounce
+2. abjure (verb)
 
-He publicly abjured his former political beliefs.
+abjure — strongly reject (an idea); forgo
+abjure — strongly reject (an idea); forgo
 
-2. abjure — reject strongly; renounce
+He publicly abjured his former beliefs.
 
-He publicly abjured his former political beliefs.
+The witness abjured any involvement in the incident.
 
-3. anomalous — irregular; abnormal
+3. anomalous (adjective)
 
-Scientists were puzzled by the anomalous results of the experiment.
+anomalous — differing from what is normal; atypical
+anomalous — differing from what is normal; atypical
 
-3. anomalous — irregular; abnormal
+The scientist noted an anomalous result in the experiment.
 
-Scientists were puzzled by the anomalous results of the experiment.
+Her anomalous behavior worried her friends.
 
-4. antipathy — strong dislike; hostility
+4. antipathy (noun)
 
-She felt a deep antipathy toward unfair treatment.
+antipathy — profound hostility or hatred
+antipathy — profound hostility or hatred
 
-4. antipathy — strong dislike; hostility
+She felt a deep antipathy toward corruption.
 
-She felt a deep antipathy toward unfair treatment.
+Long-standing antipathy divided the two communities.
 
-5. arcane — mysterious; known by few
+5. arcane (adjective)
 
-The professor specialized in an arcane branch of linguistics.
+arcane — comprehended by very few people; secret
+arcane — comprehended by very few people; secret
 
-5. arcane — mysterious; known by few
+The professor specialized in arcane medieval rituals.
 
-The professor specialized in an arcane branch of linguistics.
+The manual is filled with arcane technical jargon.
 
-6. arduous — very difficult; requiring great effort
+6. arduous (adjective)
 
-Climbing the steep mountain was an arduous task.
+arduous — very challenging; needing great effort
+arduous — very challenging; needing great effort
 
-6. arduous — very difficult; requiring great effort
+Climbing the mountain was an arduous task.
 
-Climbing the steep mountain was an arduous task.
+He faced an arduous journey through the desert.
 
-7. artless — simple; without deception
+7. artless (adjective)
 
-Her artless charm made everyone instantly comfortable around her.
+artless — naive; inexperienced
+artless — naive; inexperienced
 
-7. artless — simple; without deception
+Her artless remarks revealed her innocence.
 
-Her artless charm made everyone instantly comfortable around her.
+He was too artless to detect the manipulation.
 
-8. ascetic — strict and self-disciplined
+artless — plain and simple
+artless — plain and simple
 
-He adopted an ascetic lifestyle, avoiding all material pleasures.
+The painting had an artless charm.
 
-8. ascetic — strict and self-disciplined
+His artless writing style made the message clear.
 
-He adopted an ascetic lifestyle, avoiding all material pleasures.
+artless — lacking skill
+artless — lacking skill
 
-9. assuage — ease; reduce intensity
+The artless performance disappointed the audience.
 
-Warm tea helped assuage her sore throat.
+His artless attempt at cooking ended badly.
 
-9. assuage — ease; reduce intensity
+8. ascetic (adjective / noun)
 
-Warm tea helped assuage her sore throat.
+ascetic — (adj.) very strict and lacking luxury
+ascetic — (adj.) very strict and lacking luxury
 
-10. betray — reveal unintentionally
+He lived an ascetic life with no possessions.
 
-His trembling hands betrayed his fear.
+Monks practice ascetic discipline.
 
-10. betray — reveal unintentionally
+ascetic — (noun) someone who adopts an ascetic lifestyle
+ascetic — (noun) someone who adopts an ascetic lifestyle
 
-His trembling hands betrayed his fear.
+The ascetic renounced worldly pleasures.
 
-11. bucolic — relating to the countryside
+Many ascetics live in remote places.
 
-They spent the weekend in a bucolic village far from the city.
+9. assuage (verb)
 
-11. bucolic — relating to the countryside
+assuage — decrease a negative feeling
+assuage — decrease a negative feeling
 
-They spent the weekend in a bucolic village far from the city.
+She tried to assuage his fears with a gentle explanation.
 
-12. burgeon — grow rapidly; expand
+A warm meal helped assuage their hunger.
 
-Tech startups continue to burgeon in the region.
+assuage — fulfill a certain desire
+assuage — fulfill a certain desire
 
-12. burgeon — grow rapidly; expand
+He read a book to assuage his curiosity.
 
-Tech startups continue to burgeon in the region.
+The gift assuaged her longing for home.
 
-13. cacophonous — harsh sounding; noisy
+10. betray (verb)
 
-The traffic outside created a cacophonous backdrop.
+betray — unknowingly disclose or reveal
+betray — unknowingly disclose or reveal
 
-13. cacophonous — harsh sounding; noisy
+His trembling hands betrayed his nervousness.
 
-The traffic outside created a cacophonous backdrop.
+Her smile betrayed her excitement.
 
-14. canonize — treat as sacred; glorify
+11. bucolic (adjective)
+
+bucolic — associated with tranquil rural life
+bucolic — associated with tranquil rural life
+
+They enjoyed a bucolic weekend in the countryside.
+
+The poem describes bucolic landscapes.
+
+12. burgeon (verb)
+
+burgeon — quickly increase or grow; skyrocket
+burgeon — quickly increase or grow; skyrocket
+
+The startup’s popularity began to burgeon.
+
+Urban populations continue to burgeon worldwide.
+
+13. cacophonous (adjective)
+
+cacophonous — extremely noisy; grating
+cacophonous — extremely noisy; grating
+
+The city streets were cacophonous during rush hour.
+
+A cacophonous mix of horns and sirens filled the air.
+
+14. canonize (verb)
+
+canonize — treat like a god; deeply venerate
+canonize — treat like a god; deeply venerate
+
+Some fans canonize celebrities to unhealthy levels.
 
 History books often canonize national heroes.
 
-14. canonize — treat as sacred; glorify
+15. censure (verb)
 
-History books often canonize national heroes.
+censure — strongly criticize or disapprove
+censure — strongly criticize or disapprove
 
-15. censure — criticize formally
+The committee censured the member for misconduct.
 
-The committee voted to censure the member for misconduct.
+The manager censured the team for missing deadlines.
 
-15. censure — criticize formally
+16. chicanery (noun)
 
-The committee voted to censure the member for misconduct.
+chicanery — using deception to attain a certain goal
+chicanery — using deception to attain a certain goal
 
-16. chicanery — trickery to achieve a goal
+The politician relied on chicanery to win votes.
 
-The contract was full of legal chicanery to trap customers.
+Financial chicanery led to the company’s downfall.
 
-16. chicanery — trickery to achieve a goal
+17. coalesce (verb)
 
-The contract was full of legal chicanery to trap customers.
+coalesce — bring elements together; unite
+coalesce — bring elements together; unite
 
-17. coalesce — come together; unite
+The groups coalesced into a single movement.
 
-Different community groups coalesced to support the campaign.
+The ideas slowly coalesced into a plan.
 
-17. coalesce — come together; unite
+18. cogent (adjective)
 
-Different community groups coalesced to support the campaign.
+cogent — persuasive and clear; compelling
+cogent — persuasive and clear; compelling
 
-18. cogent — convincing; logically clear
+She delivered a cogent argument in court.
 
-Her cogent argument changed many people’s opinions.
+His cogent explanation convinced the panel.
 
-18. cogent — convincing; logically clear
+19. compelling (adjective)
 
-Her cogent argument changed many people’s opinions.
+compelling — persuasive and clear
+compelling — persuasive and clear
 
-19. compelling — very persuasive; fascinating
+He presented a compelling case for change.
 
-The documentary was so compelling that he watched it twice.
+The evidence was compelling enough to reopen the investigation.
 
-19. compelling — very persuasive; fascinating
+compelling — attracting interest; fascinating
+compelling — attracting interest; fascinating
 
-The documentary was so compelling that he watched it twice.
+The documentary was compelling from start to finish.
 
-20. contend — argue; compete; struggle
+Her compelling story inspired many.
 
-Researchers contend that climate change is worsening natural disasters.
+20. contend (verb)
 
-20. contend — argue; compete; struggle
+contend — argue a certain point of view; assert
+contend — argue a certain point of view; assert
 
-Researchers contend that climate change is worsening natural disasters.
+The lawyer contended that the witness was unreliable.
 
-21. copious — abundant; plentiful
+Some scientists contend that climate change is accelerating.
+
+contend — compete
+contend — compete
+
+Several teams will contend for the title.
+
+She had to contend against strong opponents.
+
+contend — struggle to overcome something
+contend — struggle to overcome something
+
+They contended with harsh weather conditions.
+
+He contends daily with chronic pain.
+
+21. copious (adjective)
+
+copious — existing in great supply; abundant
+copious — existing in great supply; abundant
 
 She took copious notes during the lecture.
 
-21. copious — abundant; plentiful
+The region produces copious amounts of fruit.
 
-She took copious notes during the lecture.
+22. cosmopolitan (adjective)
 
-22. cosmopolitan — worldly; culturally diverse
+cosmopolitan — (of a city) highly diverse
+cosmopolitan — (of a city) highly diverse
 
-New York is known for its cosmopolitan population.
+New York is a cosmopolitan metropolis.
 
-22. cosmopolitan — worldly; culturally diverse
+The school has a cosmopolitan student body.
 
-New York is known for its cosmopolitan population.
+cosmopolitan — (of a person) sophisticated and urbane
+cosmopolitan — (of a person) sophisticated and urbane
 
-23. deference — respectful submission
+He appeared cosmopolitan after years abroad.
 
-He bowed his head in deference to the elder.
+Her cosmopolitan charm impressed everyone.
 
-23. deference — respectful submission
+23. deference (noun)
 
-He bowed his head in deference to the elder.
+deference — high regard and respect; esteem
+deference — high regard and respect; esteem
 
-24. desultory — without direction; aimless
+They treated the elder with great deference.
 
-Their desultory conversation drifted from one topic to another.
+In deference to tradition, the ceremony was held outdoors.
 
-24. desultory — without direction; aimless
+24. desultory (adjective)
 
-Their desultory conversation drifted from one topic to another.
+desultory — unplanned; without enthusiasm
+desultory — unplanned; without enthusiasm
 
-25. diffident — shy; lacking confidence
+He gave a desultory wave as he walked away.
 
-She was too diffident to speak up in class.
+Their desultory conversation soon faded.
 
-25. diffident — shy; lacking confidence
+25. diffident (adjective)
 
-She was too diffident to speak up in class.
+diffident — reserved or shy; without confidence
+diffident — reserved or shy; without confidence
 
-26. dilatory — slow; delaying
+She felt diffident speaking in front of strangers.
 
-The dilatory response from officials frustrated the public.
+His diffident personality made leadership challenging.
 
-26. dilatory — slow; delaying
+26. dilatory (adjective)
 
-The dilatory response from officials frustrated the public.
+dilatory — slow and unhurried; meant to stall
+dilatory — slow and unhurried; meant to stall
 
-27. equivocate — speak ambiguously
+The government faced criticism for its dilatory response.
+
+He used dilatory tactics to delay the vote.
+
+27. equivocate (verb)
+
+equivocate — speak evasively; avoid taking a stance
+equivocate — speak evasively; avoid taking a stance
 
 The spokesperson equivocated when asked direct questions.
 
-27. equivocate — speak ambiguously
+He tends to equivocate to avoid responsibility.
 
-The spokesperson equivocated when asked direct questions.
+28. polarize (verb)
 
-28. polarize — divide into opposing groups
+polarize — separate into two opposing groups
+polarize — separate into two opposing groups
 
-The issue has polarized voters across the country.
+The issue has polarized the community.
 
-28. polarize — divide into opposing groups
+Social media often polarizes public opinion.
 
-The issue has polarized voters across the country.
+29. prodigal (adjective / noun)
 
-29. prodigal — wastefully extravagant
+prodigal — (adj.) carelessly wasteful; extravagant
+prodigal — (adj.) carelessly wasteful; extravagant
 
-His prodigal spending habits left him in heavy debt.
+His prodigal lifestyle drained his savings.
 
-29. prodigal — wastefully extravagant
+The prodigal spending shocked his parents.
 
-His prodigal spending habits left him in heavy debt.
+prodigal — (noun) a person who is excessively wasteful
+prodigal — (noun) a person who is excessively wasteful
 
-30. verbose — excessively wordy
+The prodigal returned home after years of waste.
 
-The essay was rejected for being unnecessarily verbose.
+She feared becoming a prodigal with her finances.
 
-30. verbose — excessively wordy
+30. verbose (adjective)
 
-The essay was rejected for being unnecessarily verbose.
+verbose — excessively talkative; wordy
+verbose — excessively talkative; wordy
+
+His verbose speech bored the audience.
+
+The report was too verbose for quick reading.
